@@ -4,6 +4,7 @@
     width: 100%;
     padding: 0px;
     margin: 50px 0px 0px 0px;
+    height: calc(100vh - 200px);
 }
 
 .article {
@@ -14,7 +15,7 @@
     justify-content: space-around;
 }
 
-img {
+.body img {
     border-radius: 50%;
     width: 45vw;
     height: auto;
