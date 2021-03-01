@@ -1,0 +1,38 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: ##6A8D92;
+}
+
+.job {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0px;
+    background-color: #6A8D92;
+    border-top: dashed;
+    border-color: black;
+}
+
+.job h2 span {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.job h4 {
+    font-weight: lighter;
+}
+
+.list li {
+    text-align: left;
+    margin-left: 25%;
+}
+
+.job4 {
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+    background-color: #6A8D92; 
+    border-top: dashed;
+    border-color: black;   
+}

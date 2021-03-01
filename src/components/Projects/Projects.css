@@ -1,0 +1,23 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project {
+    width: 100%;
+    height: auto;
+    border-top: dashed;
+    border-color: black;
+}
+
+#github-link {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.project-list li {
+    text-align: left;
+    margin-left: 25%;
+}

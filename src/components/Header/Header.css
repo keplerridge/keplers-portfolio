@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #B2EDC5;
+}
+
+.header nav {
+    display: flex;
+    width: 20%;
+    justify-content: space-evenly;
+}
+
+#web-link {
+     text-decoration: none;
+     color: black;
+}
+
+/* 
+#B2EDC5-Header
+#6A8D92-Main
+#36393B-Footer
+#E4BB97-unused
+ */
+
+
