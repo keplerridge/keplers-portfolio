@@ -40,3 +40,12 @@
 .job4 h4 {
     font-weight: lighter;
 }
+
+.job4 h2 span {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.job4 h4 {
+    font-weight: lighter;
+}
