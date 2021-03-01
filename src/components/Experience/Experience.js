@@ -49,7 +49,7 @@ const Experience = () => {
             </section>
             <section className='job4'>
                 <h2>
-                    Doyple Plumbing and Heating, <span>Midvale, UT - Plumber</span>
+                    Doyle Plumbing and Heating, <span>Midvale, UT - Plumber</span>
                 </h2>
                 <h4>
                     October 2017 - February 2019
