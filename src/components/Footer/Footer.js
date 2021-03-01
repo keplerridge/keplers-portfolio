@@ -1,4 +1,4 @@
-import linkedinlogo from './linkedinlogo.webp';
+import linkedinlogo from './LinkedIn-logo.png';
 import githublogo from './githublogo.png';
 import './Footer.css';
 
