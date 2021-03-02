@@ -19,3 +19,18 @@
     height: 35px;
     width: auto;
 }
+
+@media(max-width: 500px) {
+    .logos {
+        margin-left: 10%;
+    }
+
+    .logos img {
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+    }
+
+    .footer {
+        margin-top: 50px;
+    }
+}

@@ -18,11 +18,49 @@
      color: black;
 }
 
+@media(min-width: 1800px) {
+    .header h1 {
+        margin-left: 7%;
+    }
+    
+    .header nav {
+        margin-right: 100px;
+    }
+}
+
+@media(max-width: 1050px) {
+    .header nav {
+        justify-content: space-around;
+        width: 40%;
+    }
+
+    .header h1 {
+        margin-left: 0px;
+    }
+}
+
+@media(max-width: 500px) {
+    .header {
+        flex-direction: column;
+        height: 100px;
+    }
+
+    .header h1 {
+        margin: 0px;
+    }
+
+    .header nav {
+        margin: 0px;
+        padding-top: 0px;
+        width: 100%;
+    }
+}
+
 /* 
 #B2EDC5-Header
 #6A8D92-Main
 #36393B-Footer
-#E4BB97-unused
+#E4BB97-Hover on resume
  */
 
 

@@ -38,3 +38,22 @@
     height: 135px;
     width: auto;
 }
+
+@media(max-width: 500px) {
+    .top {
+        flex-direction: column;
+        height: auto;
+        background-color: #6A8D92;
+    }
+
+    .bottom {
+        margin-top: 0px;
+        flex-direction: column;
+        height: auto;
+        background-color: #6A8D92;
+    }
+
+    .bottom-picture {
+        margin-bottom: 50px;
+    }
+}

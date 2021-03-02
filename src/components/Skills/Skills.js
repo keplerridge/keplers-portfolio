@@ -52,7 +52,7 @@ const Skills = () => {
                     <img src ={axios} alt='axios Logo'/>
                     <h3>axios & express</h3>
                 </section>
-                <section>
+                <section className='bottom-picture'>
                     <img src ={sql} alt='SQL Tabs Logo'/>
                     <h3>SQL Tabs</h3>
                 </section>

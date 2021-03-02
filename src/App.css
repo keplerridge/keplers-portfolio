@@ -3,6 +3,6 @@
 .App {
   text-align: center;
   font-family: Varela;
-  height: 100vh;
+  height: calc(100vh - 40px);
   background-color: #6A8D92;
 }
