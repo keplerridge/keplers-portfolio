@@ -27,4 +27,8 @@
     .project {
         margin-bottom: 30px;
     }
+
+    .project-list li {
+        margin-left: 2.5%;
+    }
 }
