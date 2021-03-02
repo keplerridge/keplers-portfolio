@@ -9,6 +9,7 @@
     height: auto;
     border-top: dashed;
     border-color: black;
+    background-color: #6A8D92;
 }
 
 #github-link {
@@ -20,4 +21,10 @@
 .project-list li {
     text-align: left;
     margin-left: 25%;
+}
+
+@media(max-width: 500px) {
+    .project {
+        margin-bottom: 30px;
+    }
 }
